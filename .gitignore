@@ -3,9 +3,11 @@ rag-frontend/node_modules
 rag-frontend/.next
 rag-frontend/.env*
 
-# backend
+# Backend
 rag-backend/venv
-rag-backend/__pycache__
+rag-backend/**/*.pyc
+rag-backend/__pycache__/
+rag-backend/**/__pycache__/
 rag-backend/.env*
 
 # OS
