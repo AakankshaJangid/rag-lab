@@ -11,3 +11,4 @@ python-docx
 python-pptx
 python-multipart
 python-jose
+PyMuPDF
